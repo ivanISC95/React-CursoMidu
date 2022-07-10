@@ -1,0 +1,25 @@
+.GIF{
+    border: 1px solid #eee;
+    border-radius: 6px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    margin: 16px;
+    width: 100%;
+    padding: 32px;
+}
+
+.GIF 
+
+.GIF h1{
+    margin: 0;
+}
+
+.GIF img{
+    object-fit: contain;
+}
+
+.i {
+    font-size: 80px;
+}
